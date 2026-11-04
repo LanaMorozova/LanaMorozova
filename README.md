@@ -12,8 +12,8 @@ Remote product design and design engineering roles — enterprise SaaS, design s
 
 ### Tools & Technologies
 
-Figma · Figma Make · Claude Design · Claude Code · Git/GitHub · VS Code · HTML/CSS · Cloudflare · Vercel
+Figma, Figma Make, Claude Design, Claude Code, Git/GitHub, VS Code, HTML/CSS, Cloudflare, Vercel
 
 ### Connect
 
-[Portfolio](https://morozova.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/roksolana-morozova-a46185292/)
+[Portfolio](https://morozova.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/roksolana-morozova-a46185292/)
