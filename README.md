@@ -16,4 +16,4 @@ Figma, Figma Make, Claude Design, Claude Code, Git/GitHub, VS Code, HTML/CSS, Cl
 
 ### Connect
 
-[Portfolio](https://morozova.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/roksolana-morozova-a46185292/)
+[Portfolio](https://morozova.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/roksolana-morozova-a46185292/)
