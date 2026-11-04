@@ -8,7 +8,7 @@ I work across design and code, from UX research and interface design to function
 
 ### Open to
 
-Product design and design engineering roles — enterprise SaaS, design systems, and AI-assisted product work.
+Remote product design and design engineering roles — enterprise SaaS, design systems, and AI-assisted product work.
 
 ### Tools & Technologies
 
