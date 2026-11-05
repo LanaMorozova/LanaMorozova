@@ -2,7 +2,7 @@
 
 **Product Designer + Design Engineer**
 
-I design and build digital products, combining 3.5+ years of experience in product design with hands-on engineering. My work spans enterprise SaaS, AI-powered products, complex B2B workflows, and scalable design systems.
+I design and build digital products, combining 4.5+ years of experience in product design with hands-on engineering. My work spans enterprise SaaS, AI-powered products, complex B2B workflows, and scalable design systems.
 
 I work across design and code, from UX research and interface design to functional implementation and deployment, using AI-assisted development to bring ideas to life.
 
